@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LoginSignupPageApplication<login_signup_Page>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.login_signup_Page.LoginSignupPageApplication",
+            "projectName": "login_signup_Page",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
